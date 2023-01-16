@@ -1,0 +1,1 @@
+This folder contains details and files about fraud credit card detection using ML
