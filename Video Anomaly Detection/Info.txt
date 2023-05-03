@@ -1,0 +1,5 @@
+The basic theory behind finding video anomalies is to use computer algorithms to analyze video data and detect any unusual or unexpected behavior that deviates from the normal patterns of activity within the video.
+
+These algorithms typically rely on techniques such as motion detection, object tracking, and pattern recognition to identify anomalous events or behaviors. They may also incorporate machine learning or artificial intelligence techniques to learn from previous examples of anomalous events and improve their detection accuracy over time.
+
+The goal of finding video anomalies is to provide early warning of potentially suspicious or dangerous behavior, such as intruders entering a secure area or individuals engaging in violent or criminal activity. By detecting such behavior early, security personnel can take action to prevent or mitigate any potential threats to safety or security.
