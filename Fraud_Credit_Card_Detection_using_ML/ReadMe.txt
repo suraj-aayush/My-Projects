@@ -3,6 +3,9 @@ The dataset used here was taken from kaggle and its download link is provided be
 The project was made on Google Collab.
 For any query you can contact me on LinkedIn.
 
+Technologies Used :-
+LSTM Autoencoders
+
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
