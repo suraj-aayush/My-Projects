@@ -5,6 +5,7 @@ For any query you can contact me on LinkedIn.
 
 Technologies Used :-
 LSTM Autoencoders
+and more
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
